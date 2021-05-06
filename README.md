@@ -2,24 +2,23 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-# 
+# U.S County Population Agewise Estimates
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting. 
 
 ## Main Overview
-
+This release provides information on agewise county population for almost a decade which is from 2010-2019 .The data updates anually. Please visit the 
+[U.S CENSUS BUREAU ](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html) for more information.
 #### Data Source
-
+This Data source is in the CSV format and the file contains its unique columns.
 ## More Information
-- Source:      
-- 
-- 
-- Frequency:
-- Formats:
+- Source: [U.S. CENSUS BUREAU](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html)     
+- [Terms of Use](https://www.usa.gov/government-works)
+- Formats:CSV
 
 ## Contact Details
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
-- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here]().
+- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/county-population-agewise) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/orgs/rearc-data/projects).
 - If you have questions about the source data, please contact .
 - If you have any other questions or feedback, send us an email at data@rearc.io.
 
