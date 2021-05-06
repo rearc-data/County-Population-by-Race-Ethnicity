@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-# U.S County Population Agewise Estimates
+# U.S County Population Estimates by Race and Ethnicity
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting. 
 
