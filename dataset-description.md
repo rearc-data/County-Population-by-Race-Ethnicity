@@ -1,5 +1,4 @@
-### CC-EST2019-ALLDATA-[ST-FIPS]: Annual County Resident Population Estimates by Age,
-Sex, Race, and Hispanic Origin: April 1, 2010 to July 1, 2019
+### Annual County Resident Population Estimates by Age, Sex, Race, and Hispanic Origin: April 1, 2010 to July 1, 2019
 
 Source: U.S. Census Bureau, Population Division
 Release Date: June 2020
