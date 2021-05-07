@@ -4,7 +4,7 @@
 
 # U.S County Population Estimates by Race and Ethnicity
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting. 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting https://console.aws.amazon.com/dataexchange/home#/products/prodview-5ygyoam4bnl7g
 
 ## Main Overview
 This release provides information on Annual County Resident Population Estimates by Age, Sex, Race, and Hispanic Origin: April 1, 2010 to July 1, 2019. The data updates anually. Please visit the [U.S CENSUS BUREAU ](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html) for more information.
